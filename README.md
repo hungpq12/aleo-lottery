@@ -1,4 +1,5 @@
 # lottery.aleo
+Discord username: hungpq0702
 
 ## Run Guide
 
