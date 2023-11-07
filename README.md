@@ -1,5 +1,8 @@
 # lottery.aleo
+```bash
 Discord username: hungpq0702
+```
+
 
 ## Run Guide
 
